@@ -11,3 +11,12 @@ Here is an implementation of a [Small Game Engine](https://github.com/Starviling
 
 Kept within the repository, I have a series of PDF Documents that outline the things I have learned at various stages of the project.
 
+## Demonstration of engine with physics and replay (Basic Platformer)
+<div class="flex-video widescreen vimeo">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/acbe8NVcQvI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Demonstration of engine for a different game (Space Invaders)
+<div class="flex-video widescreen vimeo">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/BRsvbZtDfpU" frameborder="0" allowfullscreen></iframe>
+</div>

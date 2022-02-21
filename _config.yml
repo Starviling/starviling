@@ -42,7 +42,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A place to contain some of the work that I have worked on that I think
   are worth sharing.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: 'https://starviling.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://starviling.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Starviling
 
 # This is for the editing function in _/includes/improve_content
