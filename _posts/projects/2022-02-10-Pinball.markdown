@@ -1,0 +1,19 @@
+---
+layout: page
+title:  "Pinball project for MSS"
+subheadline: "Pinball"
+date:   2021-02-10 00:00:00 -0500
+categories: work
+permalink: "/portfolio/pinball-mss/"
+---
+
+I have a pinball project put together in collaboration with Gavin Shirey (Pair programmed with), Elizabeth Copenhaver (Sound design), SirGrandPotato (Music). The engine used for this project was Unity. The project was created for the Multiple Scleorsis Society (MSS) with the purpose of giving a message of how people with multiple scleorisis (MS) work with friends and family to make the most out of life.
+
+The core mechanic of this game involves a normal pinball board. The game is, however, designed to be for two players. One player will be taking over the keyboard (1st player), while the other takes control of the mouse (2nd player). The following are added mechanics that make the game interesting and help to deliver a message regarding MS.
+- Falling Tiles: This is a progression of painful symptoms that if left alone will continue to make life harder. In order deal with these symptoms, the second player will have to "relieve" the symptoms by hovering the mouse over the tile.
+- Rotating Board: This is a symptom meant to symbolize disorientation of someone with MS. Periodically the entire pinball board will rotate, throwing off the plyaer's intentions. The second player will have to "reorient" the board by controlling the rotation sliders at the top right sides of the screen.
+- Timed Life: This is meant to keep the player in constant motion - the time remaining is indicated by the bar on the left. People typically don't idle away with their life - they make the most of what they can. The first player will try and keep the ball in play as long as possible. In order to refresh the bar, the player must have the ball collide with one of the bumpers (symbolizing things we do/achieve in life).
+- Timed Score: Rather than having a score of hitting the bumpers, we wanted a way to show off how well/long two players can keep the ball in the game. This is meant to be a game that encourages helping between people.
+- Extra Flippers: In order to get across the point of people helping others in life, we have made the game difficult to play as a single-player game by providing a big zone for the ball to fall and four flippers mapped to buttons inconvenient for mouse control.
+
+Try the game [here](https://starviling.github.io/tilepinball/)!

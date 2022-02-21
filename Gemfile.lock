@@ -26,7 +26,7 @@ GEM
       ffi (>= 1.15.0)
     eventmachine (1.2.7-x64-mingw32)
     execjs (2.8.1)
-    faraday (1.9.3)
+    faraday (1.10.0)
       faraday-em_http (~> 1.0)
       faraday-em_synchrony (~> 1.0)
       faraday-excon (~> 1.1)
@@ -283,7 +283,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 223)
   jekyll-feed (~> 0.12)
-  minima (~> 2.5)
+  jekyll-include-cache
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)

@@ -1,0 +1,23 @@
+#- title: Portfolio
+#  url: "/portfolio/"
+#  side: left
+#  dropdown:
+#  - title: "Featured Work"
+#    url: "/portfolio/featured"
+#  - title: "Recent Work"
+#    url: "/portfolio/recent"
+
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
