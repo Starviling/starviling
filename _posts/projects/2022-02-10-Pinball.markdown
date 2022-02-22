@@ -2,8 +2,12 @@
 layout: page
 title:  "Pinball project for MSS"
 subheadline: "Pinball"
+teaser: "Here I have a description of the Pinball project that I have created in coordination with Gavin Shirey, Elizabeth Copenhaver, and SirGrandPotato for MSS."
 date:   2021-02-10 00:00:00 -0500
 categories: work
+tags:
+    - blog
+    - post
 permalink: "/portfolio/pinball-mss/"
 ---
 

@@ -7,6 +7,7 @@ header:
     image_fullwidth: OldRockFall.jpg
     caption: Image taken by Stephen
 
+permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation

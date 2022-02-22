@@ -2,8 +2,12 @@
 layout: page
 title:  "Game Engine implementation for CSC482"
 subheadline: "Game Engine"
+teaser: "A brief showcase of the game engine project I completed in my CSC482 class."
 date:   2020-12-01 00:00:00 -0500
 categories: work
+tags:
+    - blog
+    - post
 permalink: "/portfolio/game-engine/"
 ---
 

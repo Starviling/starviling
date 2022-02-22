@@ -2,8 +2,12 @@
 layout: page
 title:  "Graphics projects in CSC461"
 subheadline: "Graphics"
+teaser: "Graphics projects that I have worked on in my CSC461 class that demonstrates lighting knowledge."
 date:   2021-01-01 00:00:00 -0500
 categories: work
+tags:
+    - blog
+    - post
 permalink: "/portfolio/graphics/"
 ---
 
@@ -12,7 +16,8 @@ I have created and will be keeping a repository of my work from my [Graphics Cla
 Within my repository containing my work for my graphics class, I have the following links for viewing them in action:
 
 # [Project Showcase](https://github.com/Starviling/GraphicsWork)
-- [Tetris](https://starviling.github.io/GraphicsWork/Tetris/) using threejs and webGL.
+>### [Tetris](https://starviling.github.io/GraphicsWork/Tetris/) using threejs and webGL.
+>
 > **Camera Movement**
 > - "KeyW":
 > - "KeyA":
@@ -28,7 +33,8 @@ Within my repository containing my work for my graphics class, I have the follow
 > - "KeyE": // Rotate Right
 > - "Space": // Drop
 
-- [webGL Demo](https://starviling.github.io/GraphicsWork/WebGLSelectTextureView/)
+>### [webGL Demo](https://starviling.github.io/GraphicsWork/WebGLSelectTextureView/)
+>
 > **Texture**
 > - "KeyB": // toggle texture/light blending
 >

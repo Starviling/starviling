@@ -32,7 +32,7 @@ title: Stephen's Portfolio
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: ''
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-credits: '<p>Created using <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created using <a href="http://phlow.de/">Phlow</a>s <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.</p>'
 
 # Main author of the website
 # See > authors.yml

@@ -7,12 +7,12 @@
 #  - title: "Recent Work"
 #    url: "/portfolio/recent"
 
-#- title: Blog
-#  url: "/blog/"
-#  side: left
-#  dropdown:
-#  - title: "Blog Archive"
-#    url: "/blog/archive/"
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
