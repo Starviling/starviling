@@ -15,3 +15,10 @@ permalink: /index.html
 homepage: true
 
 ---
+
+<br/>
+<br/>
+# Welcome to my website!
+I will be periodically updating this site with some of my projects and maybe even some of my life events.
+
+Currently I have my portfolio stored within my blog archive. I plan on creating a dedicated page for portfolio work to showcase my projects.

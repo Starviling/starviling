@@ -1,0 +1,25 @@
+---
+layout: page
+title:  "Game AI projects for CSC484"
+subheadline: "Game AI"
+teaser: "A brief showcase of the game AI projects I completed in my CSC484 class."
+date:   2021-04-28 00:00:00 -0500
+categories: work
+tags:
+    - blog
+    - post
+permalink: "/portfolio/game-ai/"
+---
+Here is an implementation of my [Game AI](https://github.com/Starviling/game-ai-processing) projects using processing.
+
+Kept within the repository, I have a series of PDF Documents that outline the things I have learned at various stages of the project.
+
+## Demonstration of Path finding
+<div class="flex-video widescreen vimeo">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/qP7C7RaokmQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Demonstration of Learning Decision Tree (id3)
+<div class="flex-video widescreen vimeo">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/0ch3Pgvo6ZM" frameborder="0" allowfullscreen></iframe>
+</div>

@@ -20,4 +20,10 @@ The core mechanic of this game involves a normal pinball board. The game is, how
 - Timed Score: Rather than having a score of hitting the bumpers, we wanted a way to show off how well/long two players can keep the ball in the game. This is meant to be a game that encourages helping between people.
 - Extra Flippers: In order to get across the point of people helping others in life, we have made the game difficult to play as a single-player game by providing a big zone for the ball to fall and four flippers mapped to buttons inconvenient for mouse control.
 
+
+## Demonstration of Pinball game mechanics
+<div class="flex-video widescreen vimeo">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/XJjMViNDPyA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Try the game [here](https://starviling.github.io/tilepinball/)!

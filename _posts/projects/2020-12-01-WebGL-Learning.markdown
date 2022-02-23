@@ -24,7 +24,7 @@ Within my repository containing my work for my graphics class, I have the follow
 > - "KeyS":
 > - "KeyD":
 >
-> <br/><br/>
+> <br/>
 > **Tetronimo Movement**
 > - "ArrowRight": // Go right
 > - "ArrowLeft": // Go left
@@ -38,7 +38,7 @@ Within my repository containing my work for my graphics class, I have the follow
 > **Texture**
 > - "KeyB": // toggle texture/light blending
 >
-> <br/><br/>
+> <br/>
 > **Model selection**
 > - "Space": 
 > - "ArrowRight": // select next triangle set
@@ -46,7 +46,7 @@ Within my repository containing my work for my graphics class, I have the follow
 > - "ArrowUp": // select next ellipsoid
 > - "ArrowDown": // select previous ellipsoid  
 >
-> <br/><br/>
+> <br/>
 > **View change**
 > - "KeyA": // translate view left, rotate left with shift
 > - "KeyD": // translate view right, rotate right with shift
@@ -56,7 +56,7 @@ Within my repository containing my work for my graphics class, I have the follow
 > - "KeyE": // translate view down, rotate clockwise with shift
 > - "Escape": // reset view to default
 >
-> <br/><br/>
+> <br/>
 > **Model transformation**
 > - "KeyK": // translate left, rotate left with shift
 > - "Semicolon": // translate right, rotate right with shift

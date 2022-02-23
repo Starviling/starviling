@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Bullet hell with friends"
-subheadline: "Bullet hell game"
+title:  "Bullet hell game made with friends"
+subheadline: "Game Jam"
 teaser: "A bullet hell game created in partnership with a friend of mine over the course of 3 days."
 date:   2021-12-17 00:00:00 -0500
 categories: work
